@@ -1,39 +1,46 @@
 /* eslint-disable react/prop-types */
 import { useState } from 'react'
-import { useApi } from '../hooks/useApi'
 import { MapFrame } from './MapFrame'
 import { LampBox } from './LampBox'
 
+
 export const MainFrame = () => {
-  const [lampState,setLampState] = useState([]);
-  const [areaData] = useApi();
-  
-  const setAreaLamps = (area) => {
-    return [areaData[area]]
+  const [lampState,setLampState] = useState(Array(60).fill(false));
+  const [currentArea, setCurrentArea] = useState("Shiokaze")
+
+  const setLamps = (e) => {
+    e.preventDefault()
+    let index = e.target.value;
+    // console.log(e.target.value)
+    let newState = [...lampState]
+    newState[index] = !lampState[index]
+    // console.log(lampState, newState)
+    setLampState(newState)
+  }
+  const changeArea = (area) => {
+    setCurrentArea(area)
   }
 
-  const setLamps = () => {
-    console.log('Yes lamp')
-  }
-  const resetLamps = () => {
-    // console.log('Resetting Lamps state')
-    let a = Array(60).fill(0)
-    // console.log(a)
-    setLampState(a);
+  const resetState = () => {
+    setLampState(Array(60).fill(false));
+    setCurrentArea("Shiokaze");
   }
 
   return (
-    <div className='main-frame'>
-      <div>
-        <h4>TASOMAPSCHI</h4>
-        <MapFrame mapImage={"./src/assets/images/ShiokazePier.png"} lamps={[areaData]}/>
-      </div>
+    <main className='main-frame'>
+      <section name="MapFrame">
+        <div className='flex-between'>
+          <button onClick={() => changeArea("Shiokaze")}>Shiokaze</button>
+          <button onClick={() => changeArea("Futago")}>Futago</button>
+          <button onClick={() => changeArea("Gengetsu")}>Gengetsu</button>
+        </div>
+        <MapFrame lampState={lampState} currentArea={currentArea}/>
+      </section>
 
-      <div>
-        <LampBox setLamp={() => setLamps()} lamps={[areaData]}/>
-        {/* <button onClick={getInfoAPI}>Update Data</button> */}
-        <button onClick={resetLamps}>Reset State</button>
-      </div>
-    </div>
+      <section>
+        <LampBox setLamps={setLamps} lampState={lampState} currentArea={currentArea}/>
+        <button onClick={resetState}>Reset State</button>
+      </section>
+    </main>
   )
 }

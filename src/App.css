@@ -1,6 +1,60 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 0 15px;
   text-align: center;
 }
+
+.flex-between {
+  display:flex;
+  justify-content: space-between;
+}
+
+.map-img {
+  width: 350px;
+  height: 350px;
+}
+.main-frame {
+  display:flex;  
+}
+
+.lamp-grid {
+  display:grid;
+  grid-template-columns: repeat(5,2fr);
+}
+
+.lamp-button {
+  padding: 5 15px;
+  display:flex;
+  width:175px;
+  height:50px;
+  font-size: 12px;
+  text-align:start;
+  justify-content:space-between;
+}
+
+.lamp-extra-info {
+  display:flex;
+  align-content: space-between;
+  flex-wrap: wrap;
+}
+
+.lamp-active {
+  background-color:slategray;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+}
+.upgraded {
+  color:red;
+  background-color: aqua;
+}
+
+.source-req {
+  font-weight: 600;
+  text-align: end;
+  color:cadetblue;
+}
+

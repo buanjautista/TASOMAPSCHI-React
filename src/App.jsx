@@ -3,9 +3,12 @@ import './App.css'
 
 function App() {
   return (
-    <main>
+    <>
+      <header>
+        <h1>TASOMAPSCHI</h1>
+      </header>
         <MainFrame className="main-frame"/>
-    </main>
+    </>
   );
 }
 

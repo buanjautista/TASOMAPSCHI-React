@@ -1,1273 +1,1277 @@
 {
-    "Shiokaze": {
-        "lamps": [
-            {
-                "name": "On the roof of a hilltop house",
-                "x": "348",
-                "y": "370",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Along the cruise ship journey 1",
-                "x": "250",
-                "y": "536",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "On dangerous ground 1",
-                "x": "318",
-                "y": "591",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Jump big with the jump pad! 1",
-                "x": "367",
-                "y": "560",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Great view from Shiokaze Pier",
-                "x": "460",
-                "y": "386",
-                "airship": "false",
-                "sourcereq": 90
-            },
-            {
-                "name": "Follow the traces 1",
-                "x": "328",
-                "y": "378",
-                "airship": "false",
-                "sourcereq": 150
-            },
-            {
-                "name": "Along the cruise ship journey 2",
-                "x": "491",
-                "y": "565",
-                "airship": "false",
-                "sourcereq": 90
-            },
-            {
-                "name": "Follow the traces 2",
-                "x": "331",
-                "y": "464",
-                "airship": "false",
-                "sourcereq": 150
-            },
-            {
-                "name": "Follow the traces 3",
-                "x": "342",
-                "y": "541",
-                "airship": "false",
-                "sourcereq": 150
-            },
-            {
-                "name": "On dangerous ground 2",
-                "x": "460",
-                "y": "484",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Special vase",
-                "x": "440",
-                "y": "367",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Jump big with the jump pad! 2",
-                "x": "403",
-                "y": "378",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Diving catch 1",
-                "x": "453",
-                "y": "349",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Through the teleporter 1",
-                "x": "347",
-                "y": "493",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Under the old and brittle plank 1",
-                "x": "476",
-                "y": "365",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "On dangerous ground 3",
-                "x": "273",
-                "y": "405",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Jump big with the jump pad! 3",
-                "x": "320",
-                "y": "559",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Through the teleporter 3",
-                "x": "370",
-                "y": "370",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Via midair jump 1",
-                "x": "457",
-                "y": "511",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "From faraway seas",
-                "x": "412",
-                "y": "456",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Diving catch 2",
-                "x": "467",
-                "y": "491",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Via midair jump 2",
-                "x": "400",
-                "y": "452",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Warm glow of a lantern",
-                "x": "308",
-                "y": "482",
-                "airship": "false",
-                "sourcereq": 90
-            },
-            {
-                "name": "Overflowing letters",
-                "x": "361",
-                "y": "346",
-                "airship": "false",
-                "sourcereq": 150
-            },
-            {
-                "name": "Exploring boulders 1",
-                "x": "546",
-                "y": "475",
-                "airship": "false",
-                "sourcereq": 90
-            },
-            {
-                "name": "Airship flying around town 1",
-                "x": "407",
-                "y": "703",
-                "airship": "true",
-                "sourcereq": 90
-            },
-            {
-                "name": "Discovery! In the bush 1",
-                "x": "437",
-                "y": "535",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Discovery! In the bush 2",
-                "x": "339",
-                "y": "360",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Jump big with the jump pad! 4",
-                "x": "290",
-                "y": "379",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Discovery! In the bush 3",
-                "x": "456",
-                "y": "323",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Discovery! In the bush 4",
-                "x": "420",
-                "y": "422",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "A little help (20 coins)",
-                "x": "483",
-                "y": "392",
-                "airship": "false",
-                "sourcereq": 90
-            },
-            {
-                "name": "Troublesome weed problem",
-                "x": "382",
-                "y": "366",
-                "airship": "false",
-                "sourcereq": 90
-            },
-            {
-                "name": "Balloons disappearing into the sky",
-                "x": "308",
-                "y": "495",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Shop at Shiokaze Pier (25c)",
-                "x": "189",
-                "y": "175",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Mischievous posters",
-                "x": "387",
-                "y": "497",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Airship flying around town 2",
-                "x": "663",
-                "y": "309",
-                "airship": "true",
-                "sourcereq": 90
-            },
-            {
-                "name": "Collect the fragments floating in the sky",
-                "x": "641",
-                "y": "281",
-                "airship": "true",
-                "sourcereq": 90
-            },
-            {
-                "name": "Destroy the relics of the Earth",
-                "x": "481",
-                "y": "742",
-                "airship": "upgraded",
-                "sourcereq": 150
-            },
-            {
-                "name": "In a hard, huge rock 1",
-                "x": "666",
-                "y": "136",
-                "airship": "upgraded",
-                "sourcereq": 150
-            },
-            {
-                "name": "Under the old and brittle plank 2",
-                "x": "436",
-                "y": "303",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Collect the scattered fragments",
-                "x": "506",
-                "y": "317",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Under the old and brittle plank 3",
-                "x": "298",
-                "y": "501",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Exploring boulders 2",
-                "x": "187",
-                "y": "569",
-                "airship": "false",
-                "sourcereq": 90
-            },
-            {
-                "name": "On dangerous ground 4",
-                "x": "377",
-                "y": "510",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Buried at the edge of the pier 1",
-                "x": "392",
-                "y": "556",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Buried at the edge of the pier 2",
-                "x": "349",
-                "y": "449",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Buried at the edge of the pier 3",
-                "x": "268",
-                "y": "498",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Buried at the edge of the pier 4",
-                "x": "483",
-                "y": "385",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Buried at the edge of the pier 5",
-                "x": "520",
-                "y": "294",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Helping to collect books",
-                "x": "131",
-                "y": "181",
-                "airship": "false",
-                "sourcereq": 150
-            },
-            {
-                "name": "In a corner of the library",
-                "x": "98",
-                "y": "168",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Behind the hidden door 1",
-                "x": "115",
-                "y": "136",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Standing in the back of the library",
-                "x": "71",
-                "y": "198",
-                "airship": "false",
-                "sourcereq": 180
-            },
-            {
-                "name": "Behind the hidden door 2",
-                "x": "168",
-                "y": "192",
-                "airship": "false",
-                "sourcereq": 0
-            },
-            {
-                "name": "Balloons disappearing into the heavens",
-                "x": "309",
-                "y": "721",
-                "airship": "true",
-                "sourcereq": 90
-            },
-            {
-                "name": "Airship flying around town 3",
-                "x": "383",
-                "y": "299",
-                "airship": "true",
-                "sourcereq": 90
-            },
-            {
-                "name": "Destroy the relics of the Sky",
-                "x": "514",
-                "y": "735",
-                "airship": "upgraded",
-                "sourcereq": 150
-            },
-            {
-                "name": "Looking down on Shiokaze Pier",
-                "x": "334",
-                "y": "500",
-                "airship": "true",
-                "sourcereq": 90
-            },
-            {
-                "name": "In a hard, huge rock 2",
-                "x": "40",
-                "y": "459",
-                "airship": "upgraded",
-                "sourcereq": 150
-            }
-        ]
-    },
-    "Futago": {
-      "lamps":[
-        {
-            "name": "Buried at the edge of the valley 1",
-            "x": "363",
-            "y": "474",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Buried at the edge of the valley 2",
-            "x": "425",
-            "y": "710",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Standing in the back of the school",
-            "x": "160",
-            "y": "119",
-            "airship": "false",
-            "sourcereq": 180
-        },
-        {
-            "name": "Buried at the edge of the valley 3",
-            "x": "291",
-            "y": "561",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Diving catch 1",
-            "x": "374",
-            "y": "646",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Under the old and brittle plank 1",
-            "x": "524",
-            "y": "372",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Via midair jump 1",
-            "x": "439",
-            "y": "664",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Buried at the edge of the valley 4",
-            "x": "507",
-            "y": "516",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Balloons disappearing into the sky",
-            "x": "379",
-            "y": "588",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Helping with homework",
-            "x": "189",
-            "y": "150",
-            "airship": "false",
-            "sourcereq": 150
-        },
-        {
-            "name": "Along the elegant balloon journey 1",
-            "x": "387",
-            "y": "398",
-            "airship": "false",
-            "sourcereq": 90
-        },
-        {
-            "name": "On dangerous ground 1",
-            "x": "303",
-            "y": "513",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Below the old and brittle plank 2",
-            "x": "435",
-            "y": "449",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Buried at the edge of the valley 5",
-            "x": "318",
-            "y": "344",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Troublesome weed problem",
-            "x": "400",
-            "y": "340",
-            "airship": "false",
-            "sourcereq": 90
-        },
-        {
-            "name": "Collect the scattered fragments",
-            "x": "560",
-            "y": "533",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Discovery! In the bush 1",
-            "x": "630",
-            "y": "557",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "A little help (25 coins)",
-            "x": "274",
-            "y": "483",
-            "airship": "false",
-            "sourcereq": 90
-        },
-        {
-            "name": "Through the teleporter 1",
-            "x": "514",
-            "y": "621",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Airship flying around town 1",
-            "x": "340",
-            "y": "387",
-            "airship": "true",
-            "sourcereq": 90
-        },
-        {
-            "name": "Searching over the bridge",
-            "x": "298",
-            "y": "660",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "On dangerous ground 2",
-            "x": "479",
-            "y": "524",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Scattered around the shop",
-            "x": "378",
-            "y": "662",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Discovery! In the bush 2",
-            "x": "380",
-            "y": "700",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Under the old and brittle plank 3",
-            "x": "540",
-            "y": "517",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Via midair jump 2",
-            "x": "299",
-            "y": "453",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Buried at the edge of the valley 6",
-            "x": "280",
-            "y": "647",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Mischievous posters",
-            "x": "386",
-            "y": "442",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Airship flying around town 3",
-            "x": "420",
-            "y": "300",
-            "airship": "true",
-            "sourcereq": 90
-        },
-        {
-            "name": "Via midair jump 3",
-            "x": "367",
-            "y": "354",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "On dangerous ground 3",
-            "x": "555",
-            "y": "587",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Through the teleporter 2",
-            "x": "358",
-            "y": "639",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Follow the traces 1",
-            "x": "497",
-            "y": "431",
-            "airship": "false",
-            "sourcereq": 150
-        },
-        {
-            "name": "Discovery! In the bush 3",
-            "x": "312",
-            "y": "380",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Shopping at Futago Bridge (30c)",
-            "x": "198",
-            "y": "121",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Along the elegant balloon journey 2",
-            "x": "499",
-            "y": "484",
-            "airship": "false",
-            "sourcereq": 90
-        },
-        {
-            "name": "Follow the traces 2",
-            "x": "432",
-            "y": "667",
-            "airship": "false",
-            "sourcereq": 150
-        },
-        {
-            "name": "On dangerous ground 4",
-            "x": "253",
-            "y": "471",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Special vase",
-            "x": "453",
-            "y": "407",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Follow the traces 3",
-            "x": "401",
-            "y": "395",
-            "airship": "false",
-            "sourcereq": 150
-        },
-        {
-            "name": "Great view from Futago Bridge",
-            "x": "377",
-            "y": "548",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Discovery! In the bush 4",
-            "x": "470",
-            "y": "283",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Overflowing letters",
-            "x": "495",
-            "y": "562",
-            "airship": "false",
-            "sourcereq": 150
-        },
-        {
-            "name": "Under the old and brittle plank 4",
-            "x": "276",
-            "y": "593",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Via midair jump 4",
-            "x": "341",
-            "y": "415",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Via midair jump 5",
-            "x": "427",
-            "y": "589",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "On dangerous ground 5",
-            "x": "527",
-            "y": "446",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Warm glow of a lantern",
-            "x": "472",
-            "y": "454",
-            "airship": "false",
-            "sourcereq": 90
-        },
-        {
-            "name": "Diving catch 2",
-            "x": "332",
-            "y": "445",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Airship flying around town 2",
-            "x": "603",
-            "y": "224",
-            "airship": "true",
-            "sourcereq": 90
-        },
-        {
-            "name": "At the edge of the school 1",
-            "x": "298",
-            "y": "127",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "In a hard, huge rock 1",
-            "x": "633",
-            "y": "456",
-            "airship": "upgraded",
-            "sourcereq": 150
-        },
-        {
-            "name": "Collect the fragments floating in the sky",
-            "x": "661",
-            "y": "263",
-            "airship": "true",
-            "sourcereq": 90
-        },
-        {
-            "name": "In a hard, huge rock 2",
-            "x": "40",
-            "y": "292",
-            "airship": "upgraded",
-            "sourcereq": 150
-        },
-        {
-            "name": "Balloons disappearing into the heavens",
-            "x": "62",
-            "y": "498",
-            "airship": "true",
-            "sourcereq": 90
-        },
-        {
-            "name": "At the edge of the school 2",
-            "x": "83",
-            "y": "149",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Looking down on Futago Bridge",
-            "x": "503",
-            "y": "219",
-            "airship": "true",
-            "sourcereq": 90
-        },
-        {
-            "name": "Destroy the relics of the Sky",
-            "x": "419",
-            "y": "518",
-            "airship": "upgraded",
-            "sourcereq": 150
-        },
-        {
-            "name": "Under the floor in the punishment room",
-            "x": "121",
-            "y": "131",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Destroy the relics of the Earth",
-            "x": "396",
-            "y": "470",
-            "airship": "upgraded",
-            "sourcereq": 150
-        }]
-    },
-    "Gengetsu": {
-      "lamps": [
-        {
-            "name": "Airship flying around town 2",
-            "x": "77",
-            "y": "221",
-            "airship": "true",
-            "sourcereq": 90
-        },
-        {
-            "name": "A little help (30 coins)",
-            "x": "467",
-            "y": "435",
-            "airship": "false",
-            "sourcereq": 90
-        },
-        {
-            "name": "Through the teleporter 1",
-            "x": "456",
-            "y": "255",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Airship flying around town 1",
-            "x": "187",
-            "y": "233",
-            "airship": "true",
-            "sourcereq": 90
-        },
-        {
-            "name": "Buried at the edge of the lake 1",
-            "x": "465",
-            "y": "453",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Under the old and brittle plank 1",
-            "x": "327",
-            "y": "231",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Below the old and brittle plate 2",
-            "x": "312",
-            "y": "496",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Jump big with the jump pad! 1",
-            "x": "395",
-            "y": "240",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Through the teleporter 2",
-            "x": "376",
-            "y": "237",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Under the old and brittle plank 3",
-            "x": "233",
-            "y": "324",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Diving catch 1",
-            "x": "181",
-            "y": "518",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Via midair jump 1",
-            "x": "383",
-            "y": "486",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Discovery! In the bush 1",
-            "x": "312",
-            "y": "325",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Discovery! In the bush 2",
-            "x": "469",
-            "y": "212",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Buried at the edge of the lake 4",
-            "x": "298",
-            "y": "595",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Via midair jump 2",
-            "x": "407",
-            "y": "509",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Forsaken by a stranger",
-            "x": "235",
-            "y": "589",
-            "airship": "false",
-            "sourcereq": 90
-        },
-        {
-            "name": "Jump big with the jump pad! 2",
-            "x": "410",
-            "y": "432",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Airship flying around town 3",
-            "x": "560",
-            "y": "98",
-            "airship": "true",
-            "sourcereq": 90
-        },
-        {
-            "name": "Balloons disappearing into the sky",
-            "x": "284",
-            "y": "432",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "In a hard, huge rock 1",
-            "x": "132",
-            "y": "393",
-            "airship": "upgraded",
-            "sourcereq": 150
-        },
-        {
-            "name": "Discovery! In the bush 3",
-            "x": "177",
-            "y": "471",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "On dangerous ground 1",
-            "x": "429",
-            "y": "473",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "In a hard, huge rock 2",
-            "x": "152",
-            "y": "273",
-            "airship": "upgraded",
-            "sourcereq": 150
-        },
-        {
-            "name": "Looking down on Gengetsu Lakeside",
-            "x": "462",
-            "y": "255",
-            "airship": "true",
-            "sourcereq": 90
-        },
-        {
-            "name": "Great view from Gengetsu Lakeside",
-            "x": "451",
-            "y": "460",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Along the airship journey 1",
-            "x": "257",
-            "y": "356",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Under the old and brittle plank 4",
-            "x": "356",
-            "y": "526",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Jump big with the jump pad! 3",
-            "x": "302",
-            "y": "430",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Buried at the edge of the lake 5",
-            "x": "352",
-            "y": "493",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Shopping at Gengetsu Lakeside (35c)",
-            "x": "636",
-            "y": "655",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Warm glow of a lantern",
-            "x": "341",
-            "y": "301",
-            "airship": "false",
-            "sourcereq": 90
-        },
-        {
-            "name": "Special vase",
-            "x": "410",
-            "y": "432",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "On dangerous ground 2",
-            "x": "235",
-            "y": "543",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Below the old and brittle board 5",
-            "x": "377",
-            "y": "437",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Buried at the edge of the lake 2",
-            "x": "487",
-            "y": "269",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Mischievous posters",
-            "x": "209",
-            "y": "489",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Via midair jump 3",
-            "x": "325",
-            "y": "491",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Buried at the edge of the lake 3",
-            "x": "461",
-            "y": "528",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Destroy the relics of the Earth",
-            "x": "584",
-            "y": "86",
-            "airship": "upgraded",
-            "sourcereq": 150
-        },
-        {
-            "name": "Destroy the relics of the Sky",
-            "x": "536",
-            "y": "90",
-            "airship": "upgraded",
-            "sourcereq": 150
-        },
-        {
-            "name": "Via midair jump 4",
-            "x": "307",
-            "y": "353",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "On dangerous ground 3",
-            "x": "412",
-            "y": "310",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "On dangerous ground 4",
-            "x": "278",
-            "y": "295",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Help collecting documents",
-            "x": "619",
-            "y": "671",
-            "airship": "false",
-            "sourcereq": 150
-        },
-        {
-            "name": "Buried at the edge of the lake 6",
-            "x": "171",
-            "y": "585",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Overflowing letters",
-            "x": "405",
-            "y": "248",
-            "airship": "false",
-            "sourcereq": 150
-        },
-        {
-            "name": "Troublesome weed problem",
-            "x": "320",
-            "y": "275",
-            "airship": "false",
-            "sourcereq": 90
-        },
-        {
-            "name": "Along the airship journey 2",
-            "x": "511",
-            "y": "338",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Collect the scattered fragments",
-            "x": "462",
-            "y": "255",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Balloons disappearing into the heavens",
-            "x": "608",
-            "y": "512",
-            "airship": "true",
-            "sourcereq": 90
-        },
-        {
-            "name": "Collect the fragments floating in the sky",
-            "x": "145",
-            "y": "154",
-            "airship": "true",
-            "sourcereq": 90
-        },
-        {
-            "name": "The sealed guest room 1",
-            "x": "658",
-            "y": "700",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Follow the traces 1",
-            "x": "234",
-            "y": "564",
-            "airship": "false",
-            "sourcereq": 150
-        },
-        {
-            "name": "Diving catch 2",
-            "x": "341",
-            "y": "301",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Standing in the back of the inn",
-            "x": "620",
-            "y": "706",
-            "airship": "false",
-            "sourcereq": 180
-        },
-        {
-            "name": "Follow the traces 2",
-            "x": "390",
-            "y": "365",
-            "airship": "false",
-            "sourcereq": 150
-        },
-        {
-            "name": "Buried in the back of the warehouse",
-            "x": "645",
-            "y": "700",
-            "airship": "false",
-            "sourcereq": 0
-        },
-        {
-            "name": "Follow the traces 3",
-            "x": "377",
-            "y": "426",
-            "airship": "false",
-            "sourcereq": 150
-        },
-        {
-            "name": "The sealed guest room 2",
-            "x": "586",
-            "y": "708",
-            "airship": "false",
-            "sourcereq": 0
-        }
-      ]
-    }
+	"Shiokaze": {
+		"mapImage": "/src/assets/images/ShiokazePier.png",
+		"lamps": [
+			{
+				"name": "On the roof of a hilltop house",
+				"x": "348",
+				"y": "370",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Along the cruise ship journey 1",
+				"x": "250",
+				"y": "536",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "On dangerous ground 1",
+				"x": "318",
+				"y": "591",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Jump big with the jump pad! 1",
+				"x": "367",
+				"y": "560",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Great view from Shiokaze Pier",
+				"x": "460",
+				"y": "386",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "Follow the traces 1",
+				"x": "328",
+				"y": "378",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "Along the cruise ship journey 2",
+				"x": "491",
+				"y": "565",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "Follow the traces 2",
+				"x": "331",
+				"y": "464",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "Follow the traces 3",
+				"x": "342",
+				"y": "541",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "On dangerous ground 2",
+				"x": "460",
+				"y": "484",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Special vase",
+				"x": "440",
+				"y": "367",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Jump big with the jump pad! 2",
+				"x": "403",
+				"y": "378",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Diving catch 1",
+				"x": "453",
+				"y": "349",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Through the teleporter 1",
+				"x": "347",
+				"y": "493",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Under the old and brittle plank 1",
+				"x": "476",
+				"y": "365",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "On dangerous ground 3",
+				"x": "273",
+				"y": "405",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Jump big with the jump pad! 3",
+				"x": "320",
+				"y": "559",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Through the teleporter 3",
+				"x": "370",
+				"y": "370",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Via midair jump 1",
+				"x": "457",
+				"y": "511",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "From faraway seas",
+				"x": "412",
+				"y": "456",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Diving catch 2",
+				"x": "467",
+				"y": "491",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Via midair jump 2",
+				"x": "400",
+				"y": "452",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Warm glow of a lantern",
+				"x": "308",
+				"y": "482",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "Overflowing letters",
+				"x": "361",
+				"y": "346",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "Exploring boulders 1",
+				"x": "546",
+				"y": "475",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "Airship flying around town 1",
+				"x": "407",
+				"y": "703",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "Discovery! In the bush 1",
+				"x": "437",
+				"y": "535",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Discovery! In the bush 2",
+				"x": "339",
+				"y": "360",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Jump big with the jump pad! 4",
+				"x": "290",
+				"y": "379",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Discovery! In the bush 3",
+				"x": "456",
+				"y": "323",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Discovery! In the bush 4",
+				"x": "420",
+				"y": "422",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "A little help (20 coins)",
+				"x": "483",
+				"y": "392",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "Troublesome weed problem",
+				"x": "382",
+				"y": "366",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "Balloons disappearing into the sky",
+				"x": "308",
+				"y": "495",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Shop at Shiokaze Pier (25c)",
+				"x": "189",
+				"y": "175",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Mischievous posters",
+				"x": "387",
+				"y": "497",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Airship flying around town 2",
+				"x": "663",
+				"y": "309",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "Collect the fragments floating in the sky",
+				"x": "641",
+				"y": "281",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "Destroy the relics of the Earth",
+				"x": "481",
+				"y": "742",
+				"airship": "upgraded",
+				"sourcereq": 150
+			},
+			{
+				"name": "In a hard, huge rock 1",
+				"x": "666",
+				"y": "136",
+				"airship": "upgraded",
+				"sourcereq": 150
+			},
+			{
+				"name": "Under the old and brittle plank 2",
+				"x": "436",
+				"y": "303",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Collect the scattered fragments",
+				"x": "506",
+				"y": "317",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Under the old and brittle plank 3",
+				"x": "298",
+				"y": "501",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Exploring boulders 2",
+				"x": "187",
+				"y": "569",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "On dangerous ground 4",
+				"x": "377",
+				"y": "510",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Buried at the edge of the pier 1",
+				"x": "392",
+				"y": "556",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Buried at the edge of the pier 2",
+				"x": "349",
+				"y": "449",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Buried at the edge of the pier 3",
+				"x": "268",
+				"y": "498",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Buried at the edge of the pier 4",
+				"x": "483",
+				"y": "385",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Buried at the edge of the pier 5",
+				"x": "520",
+				"y": "294",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Helping to collect books",
+				"x": "131",
+				"y": "181",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "In a corner of the library",
+				"x": "98",
+				"y": "168",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Behind the hidden door 1",
+				"x": "115",
+				"y": "136",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Standing in the back of the library",
+				"x": "71",
+				"y": "198",
+				"airship": "false",
+				"sourcereq": 180
+			},
+			{
+				"name": "Behind the hidden door 2",
+				"x": "168",
+				"y": "192",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Balloons disappearing into the heavens",
+				"x": "309",
+				"y": "721",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "Airship flying around town 3",
+				"x": "383",
+				"y": "299",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "Destroy the relics of the Sky",
+				"x": "514",
+				"y": "735",
+				"airship": "upgraded",
+				"sourcereq": 150
+			},
+			{
+				"name": "Looking down on Shiokaze Pier",
+				"x": "334",
+				"y": "500",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "In a hard, huge rock 2",
+				"x": "40",
+				"y": "459",
+				"airship": "upgraded",
+				"sourcereq": 150
+			}
+		]
+	},
+	"Futago": {
+		"mapImage": "/src/assets/images/FutagoBridge.png",
+		"lamps": [
+			{
+				"name": "Buried at the edge of the valley 1",
+				"x": "363",
+				"y": "474",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Buried at the edge of the valley 2",
+				"x": "425",
+				"y": "710",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Standing in the back of the school",
+				"x": "160",
+				"y": "119",
+				"airship": "false",
+				"sourcereq": 180
+			},
+			{
+				"name": "Buried at the edge of the valley 3",
+				"x": "291",
+				"y": "561",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Diving catch 1",
+				"x": "374",
+				"y": "646",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Under the old and brittle plank 1",
+				"x": "524",
+				"y": "372",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Via midair jump 1",
+				"x": "439",
+				"y": "664",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Buried at the edge of the valley 4",
+				"x": "507",
+				"y": "516",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Balloons disappearing into the sky",
+				"x": "379",
+				"y": "588",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Helping with homework",
+				"x": "189",
+				"y": "150",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "Along the elegant balloon journey 1",
+				"x": "387",
+				"y": "398",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "On dangerous ground 1",
+				"x": "303",
+				"y": "513",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Below the old and brittle plank 2",
+				"x": "435",
+				"y": "449",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Buried at the edge of the valley 5",
+				"x": "318",
+				"y": "344",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Troublesome weed problem",
+				"x": "400",
+				"y": "340",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "Collect the scattered fragments",
+				"x": "560",
+				"y": "533",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Discovery! In the bush 1",
+				"x": "630",
+				"y": "557",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "A little help (25 coins)",
+				"x": "274",
+				"y": "483",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "Through the teleporter 1",
+				"x": "514",
+				"y": "621",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Airship flying around town 1",
+				"x": "340",
+				"y": "387",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "Searching over the bridge",
+				"x": "298",
+				"y": "660",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "On dangerous ground 2",
+				"x": "479",
+				"y": "524",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Scattered around the shop",
+				"x": "378",
+				"y": "662",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Discovery! In the bush 2",
+				"x": "380",
+				"y": "700",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Under the old and brittle plank 3",
+				"x": "540",
+				"y": "517",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Via midair jump 2",
+				"x": "299",
+				"y": "453",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Buried at the edge of the valley 6",
+				"x": "280",
+				"y": "647",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Mischievous posters",
+				"x": "386",
+				"y": "442",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Airship flying around town 3",
+				"x": "420",
+				"y": "300",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "Via midair jump 3",
+				"x": "367",
+				"y": "354",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "On dangerous ground 3",
+				"x": "555",
+				"y": "587",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Through the teleporter 2",
+				"x": "358",
+				"y": "639",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Follow the traces 1",
+				"x": "497",
+				"y": "431",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "Discovery! In the bush 3",
+				"x": "312",
+				"y": "380",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Shopping at Futago Bridge (30c)",
+				"x": "198",
+				"y": "121",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Along the elegant balloon journey 2",
+				"x": "499",
+				"y": "484",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "Follow the traces 2",
+				"x": "432",
+				"y": "667",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "On dangerous ground 4",
+				"x": "253",
+				"y": "471",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Special vase",
+				"x": "453",
+				"y": "407",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Follow the traces 3",
+				"x": "401",
+				"y": "395",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "Great view from Futago Bridge",
+				"x": "377",
+				"y": "548",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Discovery! In the bush 4",
+				"x": "470",
+				"y": "283",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Overflowing letters",
+				"x": "495",
+				"y": "562",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "Under the old and brittle plank 4",
+				"x": "276",
+				"y": "593",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Via midair jump 4",
+				"x": "341",
+				"y": "415",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Via midair jump 5",
+				"x": "427",
+				"y": "589",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "On dangerous ground 5",
+				"x": "527",
+				"y": "446",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Warm glow of a lantern",
+				"x": "472",
+				"y": "454",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "Diving catch 2",
+				"x": "332",
+				"y": "445",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Airship flying around town 2",
+				"x": "603",
+				"y": "224",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "At the edge of the school 1",
+				"x": "298",
+				"y": "127",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "In a hard, huge rock 1",
+				"x": "633",
+				"y": "456",
+				"airship": "upgraded",
+				"sourcereq": 150
+			},
+			{
+				"name": "Collect the fragments floating in the sky",
+				"x": "661",
+				"y": "263",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "In a hard, huge rock 2",
+				"x": "40",
+				"y": "292",
+				"airship": "upgraded",
+				"sourcereq": 150
+			},
+			{
+				"name": "Balloons disappearing into the heavens",
+				"x": "62",
+				"y": "498",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "At the edge of the school 2",
+				"x": "83",
+				"y": "149",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Looking down on Futago Bridge",
+				"x": "503",
+				"y": "219",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "Destroy the relics of the Sky",
+				"x": "419",
+				"y": "518",
+				"airship": "upgraded",
+				"sourcereq": 150
+			},
+			{
+				"name": "Under the floor in the punishment room",
+				"x": "121",
+				"y": "131",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Destroy the relics of the Earth",
+				"x": "396",
+				"y": "470",
+				"airship": "upgraded",
+				"sourcereq": 150
+			}
+		]
+	},
+	"Gengetsu": {
+		"mapImage": "./src/assets/images/GengetsuLakeside.png",
+		"lamps": [
+			{
+				"name": "Airship flying around town 2",
+				"x": "77",
+				"y": "221",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "A little help (30 coins)",
+				"x": "467",
+				"y": "435",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "Through the teleporter 1",
+				"x": "456",
+				"y": "255",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Airship flying around town 1",
+				"x": "187",
+				"y": "233",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "Buried at the edge of the lake 1",
+				"x": "465",
+				"y": "453",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Under the old and brittle plank 1",
+				"x": "327",
+				"y": "231",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Below the old and brittle plate 2",
+				"x": "312",
+				"y": "496",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Jump big with the jump pad! 1",
+				"x": "395",
+				"y": "240",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Through the teleporter 2",
+				"x": "376",
+				"y": "237",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Under the old and brittle plank 3",
+				"x": "233",
+				"y": "324",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Diving catch 1",
+				"x": "181",
+				"y": "518",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Via midair jump 1",
+				"x": "383",
+				"y": "486",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Discovery! In the bush 1",
+				"x": "312",
+				"y": "325",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Discovery! In the bush 2",
+				"x": "469",
+				"y": "212",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Buried at the edge of the lake 4",
+				"x": "298",
+				"y": "595",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Via midair jump 2",
+				"x": "407",
+				"y": "509",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Forsaken by a stranger",
+				"x": "235",
+				"y": "589",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "Jump big with the jump pad! 2",
+				"x": "410",
+				"y": "432",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Airship flying around town 3",
+				"x": "560",
+				"y": "98",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "Balloons disappearing into the sky",
+				"x": "284",
+				"y": "432",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "In a hard, huge rock 1",
+				"x": "132",
+				"y": "393",
+				"airship": "upgraded",
+				"sourcereq": 150
+			},
+			{
+				"name": "Discovery! In the bush 3",
+				"x": "177",
+				"y": "471",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "On dangerous ground 1",
+				"x": "429",
+				"y": "473",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "In a hard, huge rock 2",
+				"x": "152",
+				"y": "273",
+				"airship": "upgraded",
+				"sourcereq": 150
+			},
+			{
+				"name": "Looking down on Gengetsu Lakeside",
+				"x": "462",
+				"y": "255",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "Great view from Gengetsu Lakeside",
+				"x": "451",
+				"y": "460",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Along the airship journey 1",
+				"x": "257",
+				"y": "356",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Under the old and brittle plank 4",
+				"x": "356",
+				"y": "526",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Jump big with the jump pad! 3",
+				"x": "302",
+				"y": "430",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Buried at the edge of the lake 5",
+				"x": "352",
+				"y": "493",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Shopping at Gengetsu Lakeside (35c)",
+				"x": "636",
+				"y": "655",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Warm glow of a lantern",
+				"x": "341",
+				"y": "301",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "Special vase",
+				"x": "410",
+				"y": "432",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "On dangerous ground 2",
+				"x": "235",
+				"y": "543",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Below the old and brittle board 5",
+				"x": "377",
+				"y": "437",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Buried at the edge of the lake 2",
+				"x": "487",
+				"y": "269",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Mischievous posters",
+				"x": "209",
+				"y": "489",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Via midair jump 3",
+				"x": "325",
+				"y": "491",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Buried at the edge of the lake 3",
+				"x": "461",
+				"y": "528",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Destroy the relics of the Earth",
+				"x": "584",
+				"y": "86",
+				"airship": "upgraded",
+				"sourcereq": 150
+			},
+			{
+				"name": "Destroy the relics of the Sky",
+				"x": "536",
+				"y": "90",
+				"airship": "upgraded",
+				"sourcereq": 150
+			},
+			{
+				"name": "Via midair jump 4",
+				"x": "307",
+				"y": "353",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "On dangerous ground 3",
+				"x": "412",
+				"y": "310",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "On dangerous ground 4",
+				"x": "278",
+				"y": "295",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Help collecting documents",
+				"x": "619",
+				"y": "671",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "Buried at the edge of the lake 6",
+				"x": "171",
+				"y": "585",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Overflowing letters",
+				"x": "405",
+				"y": "248",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "Troublesome weed problem",
+				"x": "320",
+				"y": "275",
+				"airship": "false",
+				"sourcereq": 90
+			},
+			{
+				"name": "Along the airship journey 2",
+				"x": "511",
+				"y": "338",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Collect the scattered fragments",
+				"x": "462",
+				"y": "255",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Balloons disappearing into the heavens",
+				"x": "608",
+				"y": "512",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "Collect the fragments floating in the sky",
+				"x": "145",
+				"y": "154",
+				"airship": "true",
+				"sourcereq": 90
+			},
+			{
+				"name": "The sealed guest room 1",
+				"x": "658",
+				"y": "700",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Follow the traces 1",
+				"x": "234",
+				"y": "564",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "Diving catch 2",
+				"x": "341",
+				"y": "301",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Standing in the back of the inn",
+				"x": "620",
+				"y": "706",
+				"airship": "false",
+				"sourcereq": 180
+			},
+			{
+				"name": "Follow the traces 2",
+				"x": "390",
+				"y": "365",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "Buried in the back of the warehouse",
+				"x": "645",
+				"y": "700",
+				"airship": "false",
+				"sourcereq": 0
+			},
+			{
+				"name": "Follow the traces 3",
+				"x": "377",
+				"y": "426",
+				"airship": "false",
+				"sourcereq": 150
+			},
+			{
+				"name": "The sealed guest room 2",
+				"x": "586",
+				"y": "708",
+				"airship": "false",
+				"sourcereq": 0
+			}
+		]
+	}
 }
