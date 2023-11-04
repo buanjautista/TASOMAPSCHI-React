@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import { useState } from 'react'
 import { MapFrame } from './MapFrame'
-import { LampBox } from './LampBox'
+import { SwitchBox } from './SwitchBox'
 
 
 export const MainFrame = () => {
@@ -28,7 +28,7 @@ export const MainFrame = () => {
 
   return (
     <main className='main-frame'>
-      <section name="MapFrame">
+      <section name="MapFrame" className='content-col'>
         <div className='flex-between'>
           <button onClick={() => changeArea("Shiokaze")}>Shiokaze</button>
           <button onClick={() => changeArea("Futago")}>Futago</button>
@@ -38,7 +38,7 @@ export const MainFrame = () => {
       </section>
 
       <section>
-        <LampBox setLamps={setLamps} lampState={lampState} currentArea={currentArea}/>
+        <SwitchBox setLamps={setLamps} lampState={lampState} currentArea={currentArea}/>
         <button onClick={resetState}>Reset State</button>
       </section>
     </main>

@@ -7,7 +7,7 @@ export const MapFrame = ({lampState, currentArea}) => {
   return (
     <div>
       {
-        lampState?.map((name) => {<div>{name.name}</div>})
+        lampState?.map((name) => {return (<div>{name.name}</div>)})
       }
       <img src={mapImage} className="map-img" />
     </div>

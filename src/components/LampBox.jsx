@@ -4,16 +4,14 @@ import { getAreaLamps } from "../utils/utils"
 
 
 
-export const LampBox = ({setLamps, lampState, currentArea}) => {
-    // console.log([areaLamps])
+export const SwitchBox = ({setLamps, lampState, currentArea}) => {
   let currentAreaLamps = getAreaLamps(currentArea)
 
   const LampSwitch = ({lamp, index}) => {
-    // console.log(lamp)
       return (
         <>
           <button onClick={setLamps} className={`lamp-button ${lampState[index] && "lamp-active"}`} value={index}>
-            {lamp.name} 
+            {lamp.name}
             <div className="lamp-extra-info">
             {(lamp.sourcereq > 0) && <span className="source-req">{lamp.sourcereq}</span>}
           { (lamp.airship == ("true" || "upgraded")) && <img src="./src/assets/images/airship.png" className={`icon ${(lamp.airship == "upgraded") && "upgraded"}`}/> }
@@ -23,7 +21,6 @@ export const LampBox = ({setLamps, lampState, currentArea}) => {
       )
   }
 
-  // console.log(currentAreaLamps)
   return (
     <form onSubmit={setLamps} className="lamp-grid">
       {
