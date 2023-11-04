@@ -1,8 +1,7 @@
 /* eslint-disable react/prop-types */
 
 import { getAreaLamps } from "../utils/utils"
-
-
+import { Fragment } from "react"
 
 export const SwitchBox = ({setLamps, lampState, currentArea}) => {
   let currentAreaLamps = getAreaLamps(currentArea)
@@ -26,9 +25,9 @@ export const SwitchBox = ({setLamps, lampState, currentArea}) => {
       {
         currentAreaLamps.map((lamp,index) => {
           return (
-            <>
-              <LampSwitch key={index} index={index} lamp={lamp} />
-            </>
+            <Fragment key={index}>
+              <LampSwitch index={index} lamp={lamp} />
+            </Fragment>
           );
         })
       }

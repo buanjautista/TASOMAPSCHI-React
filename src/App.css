@@ -17,14 +17,20 @@
   display:flex;
   justify-content: space-between;
 }
+
 /* Map Frame classes */
 .map-img {
   width: 450px;
   height: 450px;
 }
 
-.lampBox {
+.lamp-box {
   position: relative;
+  overflow: hidden;
+  z-index: 4;
+}
+.lamp-icon {
+  position: absolute;
 }
 
 /* Switch frame classes */
@@ -51,7 +57,7 @@
   flex-wrap: wrap;
 }
 
-.lamp-active {
+.switch-active {
   background-color:slategray;
 }
 
