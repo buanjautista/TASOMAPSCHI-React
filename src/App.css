@@ -12,18 +12,24 @@
 .main-frame {
   display:flex;
 }
-  
+
 .flex-between {
   display:flex;
   justify-content: space-between;
 }
-
+/* Map Frame classes */
 .map-img {
   width: 450px;
   height: 450px;
 }
 
-.lamp-grid {
+.lampBox {
+  position: relative;
+}
+
+/* Switch frame classes */
+
+.switch-grid {
   display:grid;
   grid-template-columns: repeat(4,2fr);
 }
@@ -39,7 +45,7 @@
   justify-content:space-between;
 }
 
-.lamp-extra-info {
+.switch-extra-info {
   display:flex;
   align-content: space-between;
   flex-wrap: wrap;
