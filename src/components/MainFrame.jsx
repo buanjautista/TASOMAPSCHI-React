@@ -10,14 +10,14 @@ export const MainFrame = () => {
 
   const setLamps = (e) => {
     e.preventDefault()
+    // GET LAMP INDEX, set the state of a specific lamp depending on switch
     let index = e.target.value;
-    // console.log(e.target.value)
     let newState = [...lampState]
     newState[index] = !lampState[index]
-    // console.log(lampState, newState)
     setLampState(newState)
   }
   const changeArea = (area) => {
+    setLampState(Array(60).fill(false));
     setCurrentArea(area)
   }
 
