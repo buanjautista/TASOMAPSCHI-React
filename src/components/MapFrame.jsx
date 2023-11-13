@@ -1,10 +1,12 @@
 /* eslint-disable react/prop-types */
 
+import { useContext } from "react"
 import { nanoid } from "nanoid"
 import { convertPos, getAreaInfo } from "../utils/utils"
 import MapImage1 from '/src/assets/images/ShiokazePier.png'
 import MapImage2 from '/src/assets/images/FutagoBridge.png'
 import MapImage3 from '/src/assets/images/GengetsuLakeside.png'
+import { LampsContext } from "../contexts/LampContext"
 
 const getMapImage = (area) => {
   let mapImage
@@ -22,13 +24,14 @@ const getMapImage = (area) => {
   return mapImage || MapImage1
 }
 
-export const MapFrame = ({lampState, currentArea}) => {
+export const MapFrame = () => {
+  const { lampState, currentArea } = useContext(LampsContext)
   let areaInfo = getAreaInfo(currentArea)
   let lampInfo = areaInfo.lamps
   let mapImage = getMapImage(currentArea) || (areaInfo.mapImage)
 
   return (
-    <>
+    <div className="mapFrame">
       <div className="lamp-box">
       {
         lampState?.map((lamp,index) => {
@@ -46,6 +49,6 @@ export const MapFrame = ({lampState, currentArea}) => {
       }
       <img src={mapImage} className="map-img" />
       </div>
-    </>
+    </div>
   )
 }
